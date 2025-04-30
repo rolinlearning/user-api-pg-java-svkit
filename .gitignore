@@ -1,0 +1,15 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment at root (optional)
+.env
+.env.*
+
+# Catch-all if needed
+*.bak
+*.tmp
+
